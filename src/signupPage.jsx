@@ -36,7 +36,7 @@ function SignupPage() {
             <p className="login-link">
               Already have an account?{" "}
               <a>
-                <Link to='/login'>Login here</Link>
+                <Link to='/login'>Login</Link>
               </a>
             </p>
           </form>
